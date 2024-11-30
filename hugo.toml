@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gingik.github.io/TravelTechScout.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Travel Tech Scout'
 theme = 'ananke'
+
+[params]
+  custom_css = ['css/main.css']

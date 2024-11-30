@@ -1,0 +1,20 @@
+.reviews-grid {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+}
+
+.review-card {
+    padding: 20px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+}
+
+.buy-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #ff9900;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
